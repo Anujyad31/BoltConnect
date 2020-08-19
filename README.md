@@ -49,7 +49,10 @@ First Install the App
 Once you open the app you will get a screen like this
 
 <br>
-<img width ="200" height ="400" align="center" src="/Screenshot_2018-11-25-11-27-26-754_com.medeveloper.anuj.boltconnect.png"/><br>
+<
+<img width="165" alt="login" src="https://user-images.githubusercontent.com/35104540/90625570-6b548000-e237-11ea-82ff-271c15c55e71.png">
+
+/><br>
 
 <p>Just type your Bolt Device Id and API key in the box and Hit submit.</p>
    
