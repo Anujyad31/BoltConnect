@@ -14,8 +14,7 @@ so in this way we can do anything with bolt with this Mobile App.
   
 ## Screenshots
 
- ![Screenshot_2018-11-25-11-33-39-677_com medeveloper ayaz boltconnect](https://user-images.githubusercontent.com/35104540/90622295-8a9cde80-e232-11ea-8f3f-9af90ae487a1.png)
- 
+<img width="109" alt="Screenshot_2018-11-25-11-33-39-677_com medeveloper ayaz boltconnect" src="https://user-images.githubusercontent.com/35104540/90624946-6a6f1e80-e236-11ea-8944-284698a303ca.png">
   
   
 ## Development Setup
