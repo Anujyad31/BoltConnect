@@ -14,7 +14,11 @@ so in this way we can do anything with bolt with this Mobile App.
   
 ## Screenshots
 
-<img width="109" alt="Screenshot_2018-11-25-11-33-39-677_com medeveloper ayaz boltconnect" src="https://user-images.githubusercontent.com/35104540/90624946-6a6f1e80-e236-11ea-8944-284698a303ca.png">
+<img width="109" alt="1" src="https://user-images.githubusercontent.com/35104540/90625094-aefaba00-e236-11ea-94eb-7e028832fc85.png">
+
+<img width="109" alt="3" src="https://user-images.githubusercontent.com/35104540/90625217-d9e50e00-e236-11ea-94b4-0b4fffc851f0.png">
+<img width="109" alt="4" src="https://user-images.githubusercontent.com/35104540/90625246-e5d0d000-e236-11ea-94df-96747e0a23e3.png">
+<img width="109" alt="5" src="https://user-images.githubusercontent.com/35104540/90625263-eb2e1a80-e236-11ea-93cb-2e47b2a27536.png">
   
   
 ## Development Setup
