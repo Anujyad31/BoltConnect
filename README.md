@@ -13,18 +13,13 @@ BoltCloud api respond to the request and give it back to the Android app.
 so in this way we can do anything with bolt with this Mobile App.
   
 ## Screenshots
-<table>
-    <tr>
-     <td><img src="/Screenshots/Screenshot_2018-11-25-11-33-39-677_com.medeveloper.anuj.boltconnect.png"></td>
-     <td><img src="/Screenshots/Screenshot_2018-11-25-11-35-17-971_com.medeveloper.anuj.boltconnect.png"></td>
-     <td><img src="/Screenshots/Screenshot_2018-11-25-11-35-27-854_com.medeveloper.anuj.boltconnect.png"></td>
-    </tr>
-     <tr> 
-      <td><img src="/Screenshots/Screenshot_2018-11-25-11-35-40-874_com.medeveloper.anuj.boltconnect.png"></td>
-      <td><img src="/Screenshots/Screenshot_2018-11-25-11-35-48-401_com.medeveloper.anuj.boltconnect.png"></td>
-      <td><img src="/Screenshots/Screenshot_2018-11-25-11-35-52-164_com.medeveloper.anuj.boltconnect.png"></td>
-      </tr>
-  </table>
+
+<img width="109" alt="1" src="https://user-images.githubusercontent.com/35104540/90625094-aefaba00-e236-11ea-94eb-7e028832fc85.png">
+
+<img width="109" alt="3" src="https://user-images.githubusercontent.com/35104540/90625217-d9e50e00-e236-11ea-94b4-0b4fffc851f0.png">
+<img width="109" alt="4" src="https://user-images.githubusercontent.com/35104540/90625246-e5d0d000-e236-11ea-94df-96747e0a23e3.png">
+<img width="109" alt="5" src="https://user-images.githubusercontent.com/35104540/90625263-eb2e1a80-e236-11ea-93cb-2e47b2a27536.png">
+  
   
 ## Development Setup
 
@@ -54,7 +49,10 @@ First Install the App
 Once you open the app you will get a screen like this
 
 <br>
-<img width ="200" height ="400" align="center" src="/Screenshot_2018-11-25-11-27-26-754_com.medeveloper.anuj.boltconnect.png"/><br>
+<
+<img width="165" alt="login" src="https://user-images.githubusercontent.com/35104540/90625570-6b548000-e237-11ea-82ff-271c15c55e71.png">
+
+/><br>
 
 <p>Just type your Bolt Device Id and API key in the box and Hit submit.</p>
    
