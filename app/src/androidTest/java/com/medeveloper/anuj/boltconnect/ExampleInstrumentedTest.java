@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.medeveloper.ayaz.boltconnect", appContext.getPackageName());
+        assertEquals("com.medeveloper.Anuj.boltconnect", appContext.getPackageName());
     }
 }
