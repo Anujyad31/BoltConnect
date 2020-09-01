@@ -28,6 +28,7 @@ public class ConnectionManger {
     public static final int INVALID_API_KEY  =123;
     public static final int CONNECTION_TIMEOUT = 231;
     private RestartBolt boltRestart;
+    public BoltStatus boltStatus;
 
     public ConnectionManger(Context context,String BoltID,String APIKey) {
         this.context = context;
@@ -82,7 +83,7 @@ public class ConnectionManger {
         return status;
     }
 
-    public BoltStatus boltStatus;
+
 
     public void restart() {
         String Url  = "https://cloud.boltiot.com/remote/"+APIKey+"/restart?&deviceName="+ID;
